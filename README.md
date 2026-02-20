@@ -6,10 +6,10 @@ This Git repository contains this README file and the dataset in both CSV and RD
 
 How to Participate
 
-    Fork the repository emailed to you by trisha.iyer@duke.edu
-    Load the data.
-    Come up with a question to answer with data analysis. Analyze the dataset and prepare a presentation of your findings.
-    AFTER ANALYZING TIMEFRAME: Submit your presentation slides and video, including the forked repository link, to the Google Drive so we can screenshare it. Please do not attempt to push changes to this repository - it is read-only for participants.
+Fork the repository emailed to you by trisha.iyer@duke.edu
+Load the data.
+Come up with a question to answer with data analysis. Analyze the dataset and prepare a presentation of your findings.
+AFTER ANALYZING TIMEFRAME: Submit your presentation slides and video, including the forked repository link, to the Google Drive so we can screenshare it. Please do not attempt to push changes to this repository - it is read-only for participants.
 
 Data Dictionary
 [name of dataset here]
@@ -21,21 +21,21 @@ Competition Policies
 Code of Conduct
 AI and Online Sources
 
-    AI tools and online resources are permitted with proper citations
-    Include citations for forums (Stack Overflow), textbooks, and other references
-    Provide a link to any AI chat conversations used
-    You must list all citations (including the original study’s citation found at the bottom of this README) at the end of your code notebook
+AI tools and online resources are permitted with proper citations
+Include citations for forums (Stack Overflow), textbooks, and other references
+Provide a link to any AI chat conversations used
+You must list all citations (including the original study’s citation found at the bottom of this README) at the end of your code notebook
 
 Code Reuse
 
-    You may reuse code from your own research or class projects
-    You may NOT copy from the original student-teacher race match study - doing so will result in a major point deduction
+You may reuse code from your own research or class projects
+You may NOT copy from the original student-teacher race match study - doing so will result in a major point deduction
 
 Analysis
 
-    Must answer a question that your team chooses
-    All types of data modeling are allowed
-    All coding languages are allowed
+Must answer a question that your team chooses
+All types of data modeling are allowed
+All coding languages are allowed
 
 Submission Requirements
 
@@ -50,16 +50,16 @@ Presentation Video Guidelines
 
 Judging
 
-    Winners will be announced on Sunday, February 15
-    As stated earlier, you must come up with a question that your team will use to guide your statistical analysis.
-    A fair evaluation will be justified by multiple people deciding on competition winners.
-    The judging criteria is as follows:
-        Communication: Clarity of presentation, logical structure, and ability to explain findings to a broad audience. - 20%
-        Creativity & Insight: Depth of analysis, creativity in approach, and ability to identify meaningful patterns. - 40%
-        Reproducibility: Well-organized code, clear documentation, and transparent workflows. - 5%
-        Visualization & Design: Effective use of charts and visuals to support your conclusions. - 25%
-        Technical Soundness: Appropriate use of statistical methods, reasonable assumptions, and valid interpretations. - 10%
-    This will be prioritized more than the experience level of the statistical methods your team members used. This will account for differing experience levels across competitors.
+Winners will be announced on Sunday, February 15
+As stated earlier, you must come up with a question that your team will use to guide your statistical analysis.
+A fair evaluation will be justified by multiple people deciding on competition winners.
+The judging criteria is as follows:
+    Communication: Clarity of presentation, logical structure, and ability to explain findings to a broad audience. - 20%
+    Creativity & Insight: Depth of analysis, creativity in approach, and ability to identify meaningful patterns. - 40%
+    Reproducibility: Well-organized code, clear documentation, and transparent workflows. - 5%
+    Visualization & Design: Effective use of charts and visuals to support your conclusions. - 25%
+    Technical Soundness: Appropriate use of statistical methods, reasonable assumptions, and valid interpretations. - 10%
+This will be prioritized more than the experience level of the statistical methods your team members used. This will account for differing experience levels across competitors.
 
 Other Competitions from SSMU
 
@@ -74,16 +74,16 @@ About This Event
 
 Data Mini #2 was organized by Duke's Statistical Science Majors Union - Competitions and Opportunities Committee. Contributing members of the committee and the SSMU executive team are listed below:
 
-    Hanna Chee, ‘29
-    Trisha Iyer, ‘28
-    Hyunjin Lee, ‘27
-    Susan Li, ‘29
-    Phillip Lin, ‘27
-    Liane Ma, ‘27
-    Chelsea Nguyen, ‘28
-    Cooper Ruffing, ‘27
-    Derek Wang, ‘28
-    Amy Xu, ‘27
-    Allison Yang, ‘27
-    And an additional thank-you goes out to the professors who helped advertise the event.
+Hanna Chee, ‘29
+Trisha Iyer, ‘28
+Hyunjin Lee, ‘27
+Susan Li, ‘29
+Phillip Lin, ‘27
+Liane Ma, ‘27
+Chelsea Nguyen, ‘28
+Cooper Ruffing, ‘27
+Derek Wang, ‘28
+Amy Xu, ‘27
+Allison Yang, ‘27
+And an additional thank-you goes out to the professors who helped advertise the event.
 
