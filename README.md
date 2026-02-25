@@ -79,11 +79,11 @@ A video file/link to the presentation
 * As stated earlier, you must come up with a question that your team will use to guide your statistical analysis. 
 * A fair evaluation will be justified by multiple people deciding on competition winners.
 * The judging criteria is as follows:
-* 1) Communication: Clarity of presentation, logical structure, and ability to explain findings to a broad audience. - 20%
-* 2) Creativity & Insight: Depth of analysis, creativity in approach, and ability to identify meaningful patterns. - 40%
-* 3) Reproducibility: Well-organized code, clear documentation, and transparent workflows. - 5%
-* 4) Visualization & Design: Effective use of charts and visuals to support your conclusions. - 25%
-* 5) Technical Soundness: Appropriate use of statistical methods, reasonable assumptions, and valid interpretations. - 10%
+1) Communication: Clarity of presentation, logical structure, and ability to explain findings to a broad audience. - 20%
+2) Creativity & Insight: Depth of analysis, creativity in approach, and ability to identify meaningful patterns. - 40%
+3) Reproducibility: Well-organized code, clear documentation, and transparent workflows. - 5%
+4) Visualization & Design: Effective use of charts and visuals to support your conclusions. - 25%
+5) Technical Soundness: Appropriate use of statistical methods, reasonable assumptions, and valid interpretations. - 10%
 * This will be prioritized more than the experience level of the statistical methods your team members used. This will account for differing experience levels across competitors
 
 ## Other Competitions from SSMU
