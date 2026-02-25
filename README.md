@@ -18,6 +18,7 @@ The For Hire Vehicles (FHV) - Active dataset contains information on all TLC (Ta
 Data Source: NYC Taxi and Limousine Commission (TLC)
 Last Updated: February 25, 2026
 Update Frequency: Daily
+Link: https://data.cityofnewyork.us/Transportation/For-Hire-Vehicles-FHV-Active/8wbx-tsch/about_data 
 
 #### Data Variables
 Each row represents a single for-hire vehicle. The dataset includes vehicle identifiers, owner information, licensing details, vehicle specifications, base/company information, and regulatory dates.
@@ -62,6 +63,7 @@ Each row represents a single for-hire vehicle. The dataset includes vehicle iden
 * Must answer a question that your team chooses
 * All types of data modeling are allowed
 * All coding languages are allowed
+* Your team may use the NYC Open Data visualization tool, but only for exploratory data analysis.
 
 ## Submission Requirements
 * You and your team should submit the following to your Google Drive folder:
@@ -91,9 +93,10 @@ A video file/link to the presentation
 2) In addition, ASA DataFest 2026 at Duke, organized by the Department of Statistical Science, will take place in Perkins Library on Duke University West Campus, Friday, March 20, through Sunday, March 22. Similar to Data Minis, DataFest is a data analysis competition where teams of up to five students attack a large, complex, and surprise data set over a weekend. Please reach out to Dr. Alexander Fisher (alexander.fisher@duke.edu) with any questions.
 
 ## Dataset Acknowledgment
+This project utilizes the For Hire Vehicles (FHV) - Active dataset, maintained and publicly released by New York City's Taxi and Limousine Commission (TLC) through NYC OpenData. The dataset contains comprehensive information on all TLC-licensed for-hire vehicles in good standing and is updated daily to ensure accuracy and currency. We are grateful to the TLC and NYC OpenData for making this valuable public resource freely available for research and analysis.
 
-Your team may only use the NYC Open Data visualization tool for exploratory data analysis.
-
+### Citation
+New York City Taxi and Limousine Commission. (2026). For Hire Vehicles (FHV) - Active [Data set]. NYC OpenData. Retrieved from https://data.cityofnewyork.us/Transportation/For-Hire-Vehicles-FHV-Active/8wbx-tsch/about_data 
 This citation must be included at the end of your code notebook.
 
 ## About This Event
